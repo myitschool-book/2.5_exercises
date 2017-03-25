@@ -13,6 +13,7 @@
             <university>
                 <name>Самарский государственный медицинский университет</name>
             </university>
+	    <!--далее другие университеты -->
         </universities>
     </city>
 </country>
