@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<country>
+    <name>Russia</name>
+    <city>
+	<!-- Рассматриаемый город -->
+        <name>Samara</name>
+        <universities>
+	    <!-- Университет 1 -->
+            <university>
+                <name>Самарский государственный университет</name>
+            </university>
+	    <!-- Университет 2 -->
+            <university>
+                <name>Самарский государственный медицинский университет</name>
+            </university>
+        </universities>
+    </city>
+</country>
