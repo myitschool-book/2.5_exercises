@@ -5,7 +5,7 @@
 	<formulaReaction> 2NH4Cl + Ca(OH)2 → CaCl2 + 2NH3 + 2H2O
 	</formulaReaction>
 	<composition>
-		<ingredient>хлорида аммония</ingredient>
+		<ingredient>хлорид аммония</ingredient>
 		<ingredient>гашенная известь</ingredient>
 	</composition>
 	<conditions>
