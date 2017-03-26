@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<figure>
+	<opened>
+		<pointList>
+			<point color=”red” thick=”2”>(0;0)</point>
+			<point color=”blue” thick=”1”>(1;5,4)</point>
+		</pointList>
+		<polylineList>
+			<polyline color=”green” thick=”1”>23,1</polyline>
+			<polyline color=”green” thick=”10”>1,09</polyline>
+		</polylineList>
+	</opened>
+	<closed>
+		<ellipseList>
+			<ellipse filling=”red” border=”2” />
+			<ellipse filling=”blue”border=”1”>
+				фокальноерасстояние = 5
+			</ellipse>
+			<ellipse filling=”none” border=”1”>
+				<circleList>
+					<circle>радиус = 12,5</circle>
+					<circle>радиус = 0,152</circle>
+				</circleList>
+			</ellipse>
+		</ellipseList>
+		<polygonList>
+			<polygon angle="4">
+				<rectangleList type="square">
+					<rectangle measurement="sm">сторона =
+						20
+					</rectangle>
+					<rectangle measurement="m">сторона =
+						0,45
+					</rectangle>
+				</rectangleList>
+				<rectangleList type="rectangle">
+					<rectangle measurement="sm">площадь =
+						17
+					</rectangle>
+					<rectangle measurement="sm">площадь =
+						5,7
+					</rectangle>
+				</rectangleList>
+			</polygon>
+			<polygon angle="5" />
+		</polygonList>
+	</closed>
+</figure>
