@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<reaction substance="аммиак">
+	<title>аммиак</title>
+	<formula>2NH3</formula>
+	<formulaReaction> 2NH4Cl + Ca(OH)2 → CaCl2 + 2NH3 + 2H2O
+	</formulaReaction>
+	<composition>
+		<ingredient>хлорида аммония</ingredient>
+		<ingredient>гашенная известь</ingredient>
+	</composition>
+	<conditions>
+		<heating />
+		<catalyzer optional="true" />
+	</conditions>
+	<cautions>
+	    <gas>Выделяется едкий летучий газ. Работать под вытяжкой!</gas>
+	</cautions>
+</reaction>
